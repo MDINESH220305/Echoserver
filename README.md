@@ -8,7 +8,6 @@ To develop a simple webserver to serve html programming pages.
 ## DESIGN STEPS:
 
 ### Step 1:
-
 Design of echo server and client using python socket
 
 ### Step 2:
